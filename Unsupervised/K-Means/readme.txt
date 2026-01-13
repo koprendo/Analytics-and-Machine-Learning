@@ -4,11 +4,11 @@ Currently included:
 - 2D K-Means with synthetic data generation
 - 3D K-Means with synthetic data generation
 - Elbow method for selecting the number of clusters
-- Model training using fit and cluster assignment using fit_predict
+- Model training and cluster assignment with fit bound method
+- Bound method of predict applied on unseen data points 
 - Cluster visualizations with centroids
 
 Planned additions:
-- Explicit separation of fit and predict workflows
-- Prediction on unseen / new data points
+- Explanatory comments for fit and predict workflows
 - High-dimensional (3+ features) K-Means examples
 - Visualization of high-dimensional clustering using dimensionality reduction (e.g. PCA)
