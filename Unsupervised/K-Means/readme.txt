@@ -12,3 +12,8 @@ Planned additions:
 - Explanatory comments for fit and predict workflows
 - High-dimensional (3+ features) K-Means examples
 - Visualization of high-dimensional clustering using dimensionality reduction (e.g. PCA)
+
+Planned adjustments:
+- OOP related explanatory notes
+- Synthetic data generation once. DRY principle.
+- Train-Test split at the beginning
