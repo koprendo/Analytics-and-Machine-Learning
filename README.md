@@ -10,5 +10,7 @@ Purpose of this repo:
 - Create a **clean and reproducible structure**
 - Learn & experiment with machine learning models
 
-Why Caravanserai?
 
+Why Caravanserai?
+A caravanserai was a free stopover for travelers and merchants along long journeys.
+This repository serves the same purpose for machine learning: short, practical stops, open to everyone, no barriers.
