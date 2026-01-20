@@ -1,7 +1,7 @@
 # Analytics & Machine Learning Caravanserai
 
 This repository is a **hands-on collection of supervised & unsupervised machine learning models**.  
-Each project is implemented on real or sample datasets, with clear explanations, visualizations, and reusable code structure.
+It also includes analytical matters such as hypothesis testing necessary for ML models. Each project is implemented on real or sample datasets, with clear explanations, visualizations, and reusable code structure.
 
 Purpose of this repo:
 - Move from **theory to real practice**
