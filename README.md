@@ -1,4 +1,4 @@
-# Machine Learning Playground
+# Analytics & Machine Learning Caravanserai
 
 This repository is a **hands-on collection of supervised & unsupervised machine learning models**.  
 Each project is implemented on real or sample datasets, with clear explanations, visualizations, and reusable code structure.
