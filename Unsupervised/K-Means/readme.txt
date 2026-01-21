@@ -15,5 +15,4 @@ Planned additions:
 
 Planned adjustments:
 - OOP related explanatory notes
-- Synthetic data generation once. DRY principle.
-- Train-Test split at the beginning
+- More explanations for train, test and prediction part of the notebook 
