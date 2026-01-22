@@ -12,6 +12,7 @@ Planned additions:
 - Explanatory comments for fit and predict workflows
 - High-dimensional (3+ features) K-Means examples
 - Visualization of high-dimensional clustering using dimensionality reduction (e.g. PCA)
+- silhoutte score
 
 Planned adjustments:
 - OOP related explanatory notes
