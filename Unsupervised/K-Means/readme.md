@@ -1,19 +1,21 @@
-This directory contains K-Means clustering examples built on synthetic datasets.
+This directory contains K-Means clustering experiments built on synthetic datasets.  
+The goal is to demonstrate clustering fundamentals, model behavior, and evaluation techniques using controlled data distributions.
 
-Currently included:
-- 2D K-Means with synthetic data generation
-- 3D K-Means with synthetic data generation
-- Elbow method for selecting the number of clusters
-- Model training and cluster assignment with fit bound method
-- Bound method of predict applied on unseen data points 
-- Cluster visualizations with centroids
+Current contents:
+- 2D K-Means clustering with synthetic data generation
+- 3D K-Means clustering with synthetic data generation
+- Elbow method for optimal cluster number selection
+- Model training and cluster assignment using the fit() bound method
+- Cluster prediction for unseen samples using the predict() bound method
+- Cluster visualization including centroid positions
 
 Planned additions:
-- Explanatory comments for fit and predict workflows
-- High-dimensional (3+ features) K-Means examples
-- Visualization of high-dimensional clustering using dimensionality reduction (e.g. PCA)
-- silhoutte score
+- Detailed explanations of fit() and predict() workflows
+- High-dimensional K-Means examples (3+ features)
+- Dimensionality reduction based visualization (e.g., PCA)
+- Silhouette score analysis for cluster quality evaluation
 
-Planned adjustments:
-- OOP related explanatory notes
-- More explanations for train, test and prediction part of the notebook 
+Planned improvements:
+- OOP-oriented implementation notes
+- Clear explanation of model fitting vs inference phases
+- Notebook structure improvements for better readability
